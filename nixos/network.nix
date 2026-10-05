@@ -8,11 +8,11 @@
     ipv4Address = "172.16.42.2";
     publicKey = "vjsUWQojwUtD/+WRcY7zM8UTBoxVvKWk/rCZhCKUFi4=";
   };
-  hub-display-kitchen = {
+  h3-display-kitchen = {
     ipv4Address = "172.16.42.3";
     publicKey = "hqvGKVVNXDyV8zt6us5jRYVsm61qRcJ4epI4trbz0FU=";
   };
-  hub-display-common = {
+  h3-display-common = {
     ipv4Address = "172.16.42.4";
     publicKey = "wYJvaevxwImeYm0nrY2YRU6VdKFvWlR9xHPvJoV44hw=";
   };
