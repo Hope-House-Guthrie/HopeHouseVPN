@@ -1,5 +1,5 @@
 {
-  hub-gateway = {
+  h2-gateway = {
     ipv4Address = "172.16.42.1";
     publicKey = "9QMnhUpKuHnPoFLDtZnY6vu1B1iG6OrZFvqGvvEBpEE=";
     endpoint = "104.215.78.1";
